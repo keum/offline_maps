@@ -1,0 +1,18 @@
+Data Source:
+
+#road-label /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-roads.shp
+
+#places /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-places.shp
+
+#bridges /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-roads.shp
+
+#motorways /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-motorways.shp
+
+#mainroads /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-roads.shp
+
+#roads  /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-roads.shp
+
+#tunnels /Users/peter/Documents/GISdata/seattle_may2013.imposm-shapefiles/seattle.osm-roads.shp
+
+#water  /Users/peter/Documents/waterbody/waterbody.shp
+
