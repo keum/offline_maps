@@ -1,8 +1,8 @@
 Offline-Basemap 
 ============
-To produce basemap using OSM data and TileMill to generate basemap cache
+##To produce basemap using OSM data and TileMill to generate basemap cache
 
-Steps:
+#Steps:
 
 1. Using OSM data Extract http://metro.teczno.com/#seattle data for imposm shapefiles (data extracted Dec 2013)
 
@@ -32,7 +32,7 @@ Steps:
      Labeling:    https://github.com/keum/osm-quiet-la/blob/master/quiet-la/labels.mss
 
 
-Workflow:
+#Workflow:
 
 A: Take OSM data from metro extract
 
@@ -44,7 +44,7 @@ D. Cache individual layers  (features of sewer/points/service area)
 
 
 
-Using:
+#Using:
 
 A. Using TileStream: - Serving Mbtiles load into client web browser. 
 
