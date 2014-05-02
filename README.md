@@ -12,9 +12,9 @@ Steps:
 
      Using KC data, need to reproject StatePlane to WGS84 - Read https://gist.github.com/keum/7920560/edit
 
-          using ogrinfo namdoffile.shp -al -so to view the data
+     using ogrinfo namdoffile.shp -al -so to view the data
 
-          using ogr2ogr command to convert stateplane into WGS84:  ogr2ogr -t_srs EPSG:4326 newnameFile.shp oldNameFile.shp
+     using ogr2ogr command to convert stateplane into WGS84:  ogr2ogr -t_srs EPSG:4326 newnameFile.shp oldNameFile.shp
 
 
 
