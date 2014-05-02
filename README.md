@@ -1,6 +1,6 @@
 Offline-Basemap 
 ============
-To produce basemap using OSM data and TileMill to create basemap using offline
+To produce basemap using OSM data and TileMill to generate basemap cache
 
 Steps:
 
