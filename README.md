@@ -4,9 +4,9 @@ To produce basemap using OSM data and TileMill to generate basemap cache
 
 Steps:
 
-1. Using OSM data Extract http://metro.teczno.com/#seattle data for imposm shapefiles (data extracted Dec 2013)
+     1. Using OSM data Extract http://metro.teczno.com/#seattle data for imposm shapefiles (data extracted Dec 2013)
 
-2. Using TileMill to stylize using CartoCSS (MSS files)
+     2. Using TileMill to stylize using CartoCSS (MSS files)
 
      imposm shapefiles are in WGS84 Mercator projection
 
