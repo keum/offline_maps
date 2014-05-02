@@ -4,9 +4,9 @@ To produce basemap using OSM data and TileMill to generate basemap cache
 
 Steps:
 
-     1. Using OSM data Extract http://metro.teczno.com/#seattle data for imposm shapefiles (data extracted Dec 2013)
+1. Using OSM data Extract http://metro.teczno.com/#seattle data for imposm shapefiles (data extracted Dec 2013)
 
-     2. Using TileMill to stylize using CartoCSS (MSS files)
+2. Using TileMill to stylize using CartoCSS (MSS files)
 
      imposm shapefiles are in WGS84 Mercator projection
 
@@ -46,8 +46,8 @@ D. Cache individual layers  (features of sewer/points/service area)
 
 Using:
 
-B. Using TileStream: - Serving Mbtiles load into client web browser. 
+A. Using TileStream: - Serving Mbtiles load into client web browser. 
 
-     1. Using portable-node-app (from Dane) to install windows TileStream in local laptop and copy the exported Mbtiles files into appropriate directory. 
+1. Using portable-node-app (from Dane) to install windows TileStream in local laptop and copy the exported Mbtiles files into appropriate directory. 
 
-     2. Install leaflet and it’s library locally 
+2. Install leaflet and it’s library locally 
